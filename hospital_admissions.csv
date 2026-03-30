@@ -1,0 +1,6 @@
+patient_id,name,age,city,department,admission_days
+1,Rahul,34,Mumbai,Cardiology,3
+2,Aditi,29,Delhi,Orthopedics,1
+3,Mehul,45,Mumbai,Neurology,5
+4,Sara,31,Pune,Cardiology,2
+5,Arjun,38,Mumbai,Orthopedics,4
